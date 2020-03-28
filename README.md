@@ -1,4 +1,4 @@
-# epidemic repository
+# epidemic modelling
 Agent based SIR model with increasing detail and complexity, written in c++ (it's all c-syntax except calling functions by reference variables, which is cool.)
 
 Description of the folders:
